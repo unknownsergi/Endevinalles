@@ -10,9 +10,14 @@ const questions = [
         respostaIncorrecta: "Louis Amstrong",
     },
     {
-        questio: "Quien es Travis Scott",
+        questio: "Qui és Travis Scott?",
         respostaCorrecta: "Travis Scott",
         respostaIncorrecta: "Pablo Candás",
+    },
+    {
+        questio: "2 + 2 és 4?",
+        respostaCorrecta: "Sí",
+        respostaIncorrecta: "No",
     },
 ];
 
