@@ -19,6 +19,12 @@ const questions = [
         respostaCorrecta: "Sí",
         respostaIncorrecta: "No",
     },
+    {
+        questio: "Quien es la mas hermosa del mundo?",
+        respostaCorrecta: "Julietita olsina mi chiquitita preciosa",
+        respostaIncorrecta: "Mi patatita",
+    },
+    
 ];
 
 let indexQuestioActual = 0;
