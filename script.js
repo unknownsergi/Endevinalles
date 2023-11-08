@@ -9,6 +9,11 @@ const questions = [
         respostaCorrecta: "Neil Amstrong",
         respostaIncorrecta: "Louis Amstrong",
     },
+    {
+        questio: "Quien es Travis Scott",
+        respostaCorrecta: "Travis Scott",
+        respostaIncorrecta: "Pablo Candás",
+    },
 ];
 
 let indexQuestioActual = 0;
