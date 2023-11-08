@@ -30,6 +30,7 @@ function barrejaRespostes(correcta, incorrecta) {
 
 function mostraQuestio() {
     if (indexQuestioActual < questions.length) {
+        btnReiniciar.style.display = "none";
         const questioActual = questions[indexQuestioActual];
         questioProposada.textContent = questioActual.questio;
 
